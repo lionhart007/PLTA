@@ -29,4 +29,5 @@ Pada alat yang dibangun sudah dapat menghasilkan listrik dan menghidupkan rumah 
 
 ![alt text](https://github.com/vh4/PembangkitListrikTenagaAir/blob/master/IMG-20211015-WA0001.jpg)
 
+- Peresmian bersama pemerintah desa dan warga desa Tambolosu
 ![alt text](https://github.com/lionhart007/PLTA/blob/master/PERESMIAN.jpeg)
